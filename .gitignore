@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 
-football_analysis/database.sqlite
+*.sqlite
+*database.sqlite
 
