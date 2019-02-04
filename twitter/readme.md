@@ -1,6 +1,6 @@
 # Project - Weather Data
 
-Who doesn't want to know the weather? [Weather Underground](https://www.wunderground.com/) provides weather data for areas across the world.
+The goal was to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. A Twitter archive was given but it only contained very basic tweet information. 
 
 
 ## Project Overview
@@ -27,12 +27,12 @@ You'll need to install:
 
 ### Data Files
 
-* `weather.csv` - [Weather Underground](https://www.wunderground.com/) sample data for the month of May.
+* `twitter-archive-enhanced.csv` - [Enhanced Twitter Archive](https://raw.githubusercontent.com/abhiksark/Udacity-DataAnalyst-Nanodegree/master/twitter/twitter-archive-enhanced.csv)
 
 
 ## Jupyter Notebook
 
-* `weather.py` - Takes in the [Weather Underground](https://www.wunderground.com/) data, and uses SQL queries to answer various questions about the weather.
+* `wrangle_act.ipynb` - Takes in the [Enhanced Twitter Archive](https://raw.githubusercontent.com/abhiksark/Udacity-DataAnalyst-Nanodegree/master/twitter/twitter-archive-enhanced.csv) data, and uses SQL queries to answer various questions about the weather.
 
 
 ## Authors
@@ -52,4 +52,4 @@ You'll need to install:
 
 ## Acknowledgments
 
-* [Weather Underground](https://www.wunderground.com/)
+* [WeRateDogs™](https://twitter.com/dog_rates)
