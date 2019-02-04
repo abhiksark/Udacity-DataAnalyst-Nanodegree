@@ -5,12 +5,14 @@ The goal was to wrangle WeRateDogs Twitter data to create interesting and trustw
 
 ## Project Overview
 
-In this project we'll be using sample weather data for the month of May from [Weather Underground](https://www.wunderground.com/). We are interested in querying the data to answer various questions. We'll specifically look at:
+There are Three Steps of Data Wrangling
 
-* Max temperature on foggy and non-foggy days
-* Number of rainy days
-* Average temperature on the weekends
-* Average temperatures on rainy days where the minimum temperature is greater then 55
+    Gathering Data
+    Assessing data
+    Cleaning data
+
+In this we have to Detect and document at least eight (8) quality issues and two (2) tidiness issues.
+
 
 
 ## Getting Started
