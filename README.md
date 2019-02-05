@@ -27,7 +27,7 @@ Choose one of Udacity's curated datasets and investigate it using NumPy and Pand
 
 
 
-[Link to report]()
+[Link to report](https://github.com/abhiksark/Udacity-DataAnalyst-Nanodegree/blob/master/twitter/Act%20Report.pdf)
 
 
 ### P4: Explore and Summarize Data
