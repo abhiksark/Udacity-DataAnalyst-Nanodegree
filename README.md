@@ -17,7 +17,7 @@ Use descriptive statistics and a statistical test to analyze the Stroop effect, 
 
 
 ### P2: Wrangle and Clean Twitter Data
-
+Gathered data from WeRateDogs page on Twitter. 
 
 [Link to report](https://github.com/abhiksark/Udacity-DataAnalyst-Nanodegree/blob/master/P2:%20Wrangle%20and%20Clean%20Twitter%20Data/Act%20Report.pdf)
 
