@@ -17,6 +17,7 @@ Use descriptive statistics and a statistical test to analyze the Stroop effect, 
 
 
 ### P2: Wrangle and Clean Twitter Data
+
 Gathered data from WeRateDogs page on Twitter. 
 
 [Link to report](https://github.com/abhiksark/Udacity-DataAnalyst-Nanodegree/blob/master/P2:%20Wrangle%20and%20Clean%20Twitter%20Data/Act%20Report.pdf)
@@ -27,7 +28,7 @@ Gathered data from WeRateDogs page on Twitter.
 
 ### P3: Design an A/B Test
 
-Make design decisions for an A/B test, including which metrics to measure and how long the test should be run. Analyze the results of an A/B test that was run by Udacity and recommend whether or not to launch the change. The results are. 
+Make design decisions for an A/B test, including which metrics to measure and how long the test should be run. Analyze the results of an A/B test that was run by Udacity and recommend whether or not to launch the change for the website.
 
 ### P4: Vizualizing the Prosper Loan Dataset
 
